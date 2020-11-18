@@ -1,7 +1,7 @@
 # PASSWORD MANAGER
-A local password manager to store important passwords using one master password.
+## A local password manager to store important passwords using one master password.
 
-TO-DO:
+### TO-DO:
 * Add email and password
 * Create and change master password
 * Index passwords based on email
